@@ -1,11 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using Blogosphere.Entity.Abstract.Entities;
+using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
-using System.Text;
-using System.Threading.Tasks;
-using YoutubeBlog.Core.Entities;
 using YoutubeBlog.Data.Context;
 using YoutubeBlog.Data.Repositories.Abstractions;
 

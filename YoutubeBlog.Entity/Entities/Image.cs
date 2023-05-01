@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using YoutubeBlog.Core.Entities;
-using YoutubeBlog.Entity.Enums;
+﻿using Blogosphere.Entity.Abstract.Entities;
 
 namespace YoutubeBlog.Entity.Entities
 {

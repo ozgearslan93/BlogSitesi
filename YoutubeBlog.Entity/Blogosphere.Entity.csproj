@@ -11,8 +11,4 @@
     <PackageReference Include="Microsoft.Extensions.Identity.Stores" Version="6.0.9" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\YoutubeBlog.Core\Blogosphere.Core.csproj" />
-  </ItemGroup>
-
 </Project>
